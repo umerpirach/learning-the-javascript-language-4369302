@@ -10,7 +10,7 @@ tRuE;
 true;
 false;
 
-buttonHasBeenClicked = false;
+var buttonHasBeenClicked = false;
 
 var myLocation = "Santa Barbara", myOtherLocation = "Los Angeles";
 
